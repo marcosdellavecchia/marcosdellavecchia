@@ -2,7 +2,7 @@
 
 I'm a web developer with an economics background based in Buenos Aires.
 
-### About me
+### Some facts about me
 
 ```javascript
 const marcosdv = () => ({
