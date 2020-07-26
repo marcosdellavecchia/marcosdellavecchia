@@ -9,7 +9,7 @@ const marcosdv = () => ({
   me: [ "web-developer", "accountant", "techie", "music-lover" ],
   code: [ "javascript", "html", "css" ],
   tools: [ "visual-studio-code", "github", "firebase", "node-js" ],
-  languages: [ "spanish", "english", ],
+  languages: [ "spanish", "english" ],
   learning: [ "react", "react-native" ]
 })
 ```
