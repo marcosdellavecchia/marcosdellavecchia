@@ -6,11 +6,11 @@ I'm a web developer with economics background based in Buenos Aires.
 
 ```javascript
 const marcosdv = () => ({
-  me: [ "web-developer", "accountant", "techie", "music-lover" ],
+  me: [ "web-developer", "accountant", "music-lover", "gymgoer" ],
   code: [ "javascript", "html", "css" ],
   tools: [ "visual-studio-code", "github", "firebase", "node-js" ],
   languages: [ "spanish", "english" ],
-  learning: [ "react", "react-native" ]
+  learning: [ "react" ]
 })
 ```
 
