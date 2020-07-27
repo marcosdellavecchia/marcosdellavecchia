@@ -2,7 +2,7 @@
 
 I'm a web developer with economics background based in Buenos Aires.
 
-### Some facts about me
+### Some facts
 
 ```javascript
 const marcosdv = () => ({
@@ -14,7 +14,7 @@ const marcosdv = () => ({
 })
 ```
 
-### Get in touch
+### Get in touch with me
 
 [![Gmail Badge](https://img.shields.io/badge/-@marcosdvecchia@gmail.com-gray?style=flat&labelColor=red&logo=gmail&logoColor=white&link=mailto:marcosdvecchia@gmail.com)](mailto:marcosdvecchia@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Marcos%20Della%20Vecchia-gray?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/marcos-dv)](https://linkedin.com/in/marcos-dv)
