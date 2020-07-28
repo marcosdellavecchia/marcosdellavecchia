@@ -8,7 +8,7 @@ I'm a web developer with economics background based in Buenos Aires.
 const marcosdv = () => ({
   me: [ "web-developer", "accountant", "music-lover", "gymgoer" ],
   code: [ "javascript", "html", "css" ],
-  tools: [ "visual-studio-code", "github", "firebase", "node-js" ],
+  tools: [ "visual-studio-code", "github", "firebase", "node-js", "wordpress" ],
   languages: [ "spanish", "english" ],
   learning: [ "react", "styled-components" ]
 })
