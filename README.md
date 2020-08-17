@@ -1,6 +1,6 @@
 ### Hi! I'm Marcos 👋
 
-I'm a web developer with economics background based in Buenos Aires.
+I'm a web developer with economics background based in Buenos Aires. I'm also interested in music, cryptocurrencies and gaming.
 
 ### About me
 
