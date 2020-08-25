@@ -10,7 +10,7 @@ const marcosdv = () => ({
   code: [ "javascript", "html", "css", "react" ],
   tools: [ "visual-studio-code", "github", "firebase", "node-js", "wordpress" ],
   languages: [ "spanish", "english" ],
-  learning: [ "react-native" ]
+  learning: [ "redux", "express" ]
 })
 ```
 
