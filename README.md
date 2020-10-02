@@ -3,15 +3,15 @@
 I'm a web developer with economics background based in Buenos Aires. I'm also interested in music, cryptocurrencies and gaming.
 
 ### About me
-
+var car = {type:"Fiat", model:"500", color:"white"};
 ```javascript
-const marcosdv = () => ({
-  me: [ "web-developer", "accountant", "music-lover", "gymgoer" ],
+const marcosdv = {
+  me: [ "web-developer", "accountant", "music-lover" ],
   code: [ "javascript", "html", "css", "react" ],
   tools: [ "visual-studio-code", "github", "firebase", "node-js", "wordpress" ],
   languages: [ "spanish", "english" ],
   learning: [ "redux", "express" ]
-})
+}
 ```
 
 ### Get in touch
