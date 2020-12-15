@@ -7,10 +7,10 @@ I'm a self-taught web developer with economics background based in Buenos Aires.
 ```javascript
 const marcosdv = {
   me: [ "web-developer", "accountant", "music-lover" ],
-  code: [ "javascript", "html", "css", "react" ],
-  tools: [ "visual-studio-code", "git", "firebase", "node-js", "wordpress" ],
+  code: [ "javascript", "html", "css", "react", "node", "express" ],
+  tools: [ "visual-studio-code", "git", "firebase", "wordpress" ],
   languages: [ "spanish", "english" ],
-  learning: [ "redux", "express" ]
+  learning: [ "sql" ]
 }
 ```
 
