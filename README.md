@@ -10,7 +10,7 @@ const marcosdv = {
   code: [ "javascript", "html", "css", "react", "node", "express", "sql" ],
   tools: [ "visual-studio-code", "git", "firebase", "wordpress" ],
   languages: [ "spanish", "english" ],
-  learning: [ "react-native", "redux" ]
+  learning: [ "react-native", "typescript" ]
 }
 ```
 
