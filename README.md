@@ -1,16 +1,16 @@
 ### Hi! I'm Marcos 👋
 
-I'm a self-taught web developer with economics background based in Buenos Aires. I'm also interested in music, cryptocurrencies and gaming.
+I'm a self-taught web developer with economics background based in Buenos Aires.
 
 ### About me
 
 ```javascript
 const marcosdv = {
-  me: [ "web-developer", "accountant", "music-lover" ],
-  code: [ "javascript", "html", "css", "react", "node", "express", "sql" ],
+  me: [ "software-developer", "accountant", "musician" ],
+  code: [ "javascript", "react", "react-native", "node", "express", "sql" ],
   tools: [ "visual-studio-code", "git", "firebase", "wordpress" ],
   languages: [ "spanish", "english" ],
-  learning: [ "react-native", "typescript" ]
+  learning: [ "typescript" ]
 }
 ```
 
