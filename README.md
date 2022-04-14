@@ -2,18 +2,6 @@
 
 I'm a software developer with economics background based in Buenos Aires.
 
-### About me
-
-```javascript
-const marcosdv = {
-  me: [ "software-developer", "accountant", "musician" ],
-  code: [ "javascript", "react", "react-native", "node", "express", "sql" ],
-  tools: [ "visual-studio-code", "git", "firebase", "wordpress" ],
-  languages: [ "spanish", "english" ],
-  learning: [ "typescript" ]
-}
-```
-
 ### Get in touch
 
 [![Gmail Badge](https://img.shields.io/badge/-@marcosdvecchia@gmail.com-gray?style=flat&labelColor=red&logo=gmail&logoColor=white&link=mailto:marcosdvecchia@gmail.com)](mailto:marcosdvecchia@gmail.com)
